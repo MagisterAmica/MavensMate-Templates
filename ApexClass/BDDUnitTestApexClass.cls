@@ -1,6 +1,6 @@
 @isTest
-private class {{ api_name }}
-{
+private class {{ api_name }} {
+
 	@isTest
 	static void itShould()
 	{

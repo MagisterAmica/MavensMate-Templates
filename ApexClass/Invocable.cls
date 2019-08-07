@@ -5,7 +5,6 @@ public with sharing class {{ api_name }} {
 		//TODO: update method return type and input parameters (they do need to be List)
 
 		List<string> results = new List<string>();
-		
 
 		return results;
 	}

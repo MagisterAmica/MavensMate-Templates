@@ -5,7 +5,7 @@
 			
 		</apex:pageBlockButtons>
 		<apex:pageBlockSection title="MyPageBlockSectionTitle">
-
+			
 		</apex:pageBlockSection>
 	</apex:pageBlock>
 </apex:page>
